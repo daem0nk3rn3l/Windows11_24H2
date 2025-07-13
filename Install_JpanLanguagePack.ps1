@@ -1,5 +1,9 @@
 # Install Windows 11 24H2 Japanese language packs with Dictionary files
 # /Limit Access only goes to local directory and does not call out to the internet Windows Update server
+#
+1. C:\Windows\IME\IMEJP\DICTS for dictionary files
+
+
 # ========================================================================================================
 
 $CabFileDirectory = ".\"
