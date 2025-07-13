@@ -3,7 +3,7 @@
 
 $CabFileDirectory = ".\"
 $LogFolder = "C:\applog"
-$LogFile = "$LogFolder\LanguagePackInstall.log"
+$LogFile = "$LogFolder\appInstall.log"
 
 
 # Function to get timestamp
